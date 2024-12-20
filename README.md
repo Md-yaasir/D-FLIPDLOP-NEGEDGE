@@ -57,9 +57,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
     else Q <= D; 
     endmodule
 
-Developed by: M RITHIKA
+Developed by: MOHAMMED YAASIR.Y
 
-RegisterNumber: 24900286
+RegisterNumber: 24900359
 
 
 **RTL LOGIC FOR FLIPFLOPS**
